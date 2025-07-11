@@ -62,6 +62,6 @@ If you enjoy **2D Geometry Web App**, ⭐ **star this repository** and share wit
 ## 🔗 License  
 
 This project is licensed under the **GPL License**.  
-Feel free to **use, modify, and distribute** it freely! 😊  
+Feel free to **use, modify, and distribute** it freely! 😊  #bocaletto-luca
 
 ---
